@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#556B2F"            # olive drab
+backgroundColor = "#F5F0E1"         # light desert sand
+secondaryBackgroundColor = "#E4D8B9" # khaki (sidebar, inputs)
+textColor = "#2E2A1C"               # dark earth
+font = "sans serif"
